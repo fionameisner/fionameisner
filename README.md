@@ -1,6 +1,4 @@
-### Hi, I'm Fiona, and welcome to my GitHub👋
-
-Hola, soy Fiona y bienvenido a mi GitHub🖖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&multiline=true&width=450&lines=Hi%2C+I'm+Fiona%2C+and+welcome+to+my+GitHub%F0%9F%91%8B;Hola%2C+soy+Fiona+y+bienvenido+a+mi+GitHub%F0%9F%96%96)](https://git.io/typing-svg)
   __________________________________
  I am a recent graduate in the field of Data Science. I also have a bachelor's degree in Information Technology.
 
