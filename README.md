@@ -22,7 +22,7 @@ Outside of my technical qualifications. I always bring a professional and friend
 - ⚡ Fun fact: I love learning and am currently learning Spanish. | ⭐ Neutron stars can spin at a rate of 600 rotations per second  
   
 
-- 🦁 Where you can find me: Usually watching documentaries or hiking  
+- 🦁 Where you can find me: Usually watching Netflix or hiking  
   
 
 - 🪴 Check out my portfolio (https://fionameisner.github.io/)  
