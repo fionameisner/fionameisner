@@ -13,13 +13,13 @@ Outside of my technical qualifications. I always bring a professional and friend
 - 🌱 I’m currently learning more about SQL and Neural Networking.  
   
 
-- 🤔 I’m looking for help/advice with everything related to data science. If you have any suggestions or even fun and helpful tips let me know! ...  
+- 🤔 I’m always looking for advice with everything related to data science. If you have any suggestions or even fun and helpful tips let me know! ...  
   
 
 - 💬 Ask me about how I got into data science or about python.  
   
 
-- ⚡ Fun fact: I love learning and am currently learning Spanish. | ⭐ Neutron stars can spin at a rate of 600 rotations per second  
+- ⚡ Fun facts: I am currently learning Spanish. | ⭐ Neutron stars can spin at a rate of 600 rotations per second  
   
 
 - 🦁 Where you can find me: Usually watching Netflix or hiking  
@@ -27,8 +27,7 @@ Outside of my technical qualifications. I always bring a professional and friend
 
 - 🪴 Check out my portfolio (https://fionameisner.github.io/)  
   
-
-<br/>  
+  <br/>  
 
 
 ## Connect with me  
