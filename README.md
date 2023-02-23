@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&multiline=true&width=450&lines=Hi%2C+I'm+Fiona%2C+and+welcome+to+my+GitHub%F0%9F%91%8B;Hola%2C+soy+Fiona+y+bienvenido+a+mi+GitHub%F0%9F%96%96)](https://git.io/typing-svg)
   __________________________________
- I am a recent graduate in the field of Data Science. I also have a bachelor's degree in Information Technology.
+ I have a bachelor's degree in Information Technology.
 
 I found my passion in data science soon after I finished my bachelor's degree. I then decided to take the next step and enroll in a few courses for data science. My most recent course was at LearningFuze. Here, I was able to gain the knowledge and skills that I need to further my career in the data science field.
 
@@ -19,10 +19,10 @@ Outside of my technical qualifications. I always bring a professional and friend
 - 💬 Ask me about how I got into data science or about python.  
   
 
-- ⚡ Fun facts: I am currently learning Spanish. | ⭐ Neutron stars can spin at a rate of 600 rotations per second  
+- ⚡ Fun facts: I am currently learning Spanish. | ⭐ Neutron stars can spin at a rate of 600 rotations per second.
   
 
-- 🦁 Where you can find me: Usually watching Netflix or hiking  
+- 🦁 Where you can find me: Usually watching Netflix or hiking.
   
 
 - 🪴 Check out my portfolio (https://fionameisner.github.io/)  
